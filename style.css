@@ -85,6 +85,10 @@ a{
 
 }
 
+a > img{
+    filter: grayscale(100%);
+}
+
 
 
 
